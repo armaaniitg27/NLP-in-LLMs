@@ -10,8 +10,7 @@ The final report and final presentation are also attached.
 
 **All codes can be run with a few specific instructions and prerequisites:**
 
-1) create a virtual environment with "**python -m venv venv**"
-2) activate it "**venv\Scripts\activate**"
+Optional: {1) create a virtual environment with "**python -m venv venv**" 2) activate it "**venv\Scripts\activate**"}
 3) install relevant libraries:
 **pip install torch,
 pip install transformers,
