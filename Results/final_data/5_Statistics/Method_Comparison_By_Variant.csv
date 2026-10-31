@@ -1,0 +1,37 @@
+﻿Method,Question version,Metric,Positive cases,Total assessed,Percent
+Baseline,Original question,Fully Correct,8,28,28.57
+Baseline,Original question,Fully Supported,7,28,25.0
+Baseline,Original question,Hallucination Yes,18,27,66.67
+Baseline,Paraphrase 1,Fully Correct,7,28,25.0
+Baseline,Paraphrase 1,Fully Supported,5,28,17.86
+Baseline,Paraphrase 1,Hallucination Yes,22,27,81.48
+Baseline,Paraphrase 2,Fully Correct,8,28,28.57
+Baseline,Paraphrase 2,Fully Supported,6,28,21.43
+Baseline,Paraphrase 2,Hallucination Yes,19,28,67.86
+Baseline,Paraphrase 3,Fully Correct,6,28,21.43
+Baseline,Paraphrase 3,Fully Supported,6,28,21.43
+Baseline,Paraphrase 3,Hallucination Yes,17,26,65.38
+Evidence Constrained,Original question,Fully Correct,11,28,39.29
+Evidence Constrained,Original question,Fully Supported,9,28,32.14
+Evidence Constrained,Original question,Hallucination Yes,13,28,46.43
+Evidence Constrained,Paraphrase 1,Fully Correct,13,28,46.43
+Evidence Constrained,Paraphrase 1,Fully Supported,10,28,35.71
+Evidence Constrained,Paraphrase 1,Hallucination Yes,12,28,42.86
+Evidence Constrained,Paraphrase 2,Fully Correct,12,28,42.86
+Evidence Constrained,Paraphrase 2,Fully Supported,12,28,42.86
+Evidence Constrained,Paraphrase 2,Hallucination Yes,12,28,42.86
+Evidence Constrained,Paraphrase 3,Fully Correct,8,28,28.57
+Evidence Constrained,Paraphrase 3,Fully Supported,6,28,21.43
+Evidence Constrained,Paraphrase 3,Hallucination Yes,9,28,32.14
+Query Rewriting,Original question,Fully Correct,12,28,42.86
+Query Rewriting,Original question,Fully Supported,5,28,17.86
+Query Rewriting,Original question,Hallucination Yes,16,28,57.14
+Query Rewriting,Paraphrase 1,Fully Correct,12,28,42.86
+Query Rewriting,Paraphrase 1,Fully Supported,3,28,10.71
+Query Rewriting,Paraphrase 1,Hallucination Yes,14,28,50.0
+Query Rewriting,Paraphrase 2,Fully Correct,10,28,35.71
+Query Rewriting,Paraphrase 2,Fully Supported,3,28,10.71
+Query Rewriting,Paraphrase 2,Hallucination Yes,16,28,57.14
+Query Rewriting,Paraphrase 3,Fully Correct,8,28,28.57
+Query Rewriting,Paraphrase 3,Fully Supported,1,28,3.57
+Query Rewriting,Paraphrase 3,Hallucination Yes,19,28,67.86

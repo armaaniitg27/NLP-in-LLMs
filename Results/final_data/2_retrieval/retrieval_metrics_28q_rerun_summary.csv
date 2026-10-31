@@ -1,0 +1,5 @@
+variant,n_questions,mean_recall_at_5,complete_support_title_retrieval_rate,mean_mrr_at_5,mean_top5_overlap_vs_original,corpus_passages,top_k,embedding_model,status
+original,28,0.6964285714285714,0.42857142857142855,0.8928571428571429,1.0,9758,5,sentence-transformers/all-MiniLM-L6-v2,Fresh consistent 28-question retrieval rerun; title-level metrics
+paraphrase_1,28,0.6428571428571429,0.32142857142857145,0.8839285714285714,0.8642857142857142,9758,5,sentence-transformers/all-MiniLM-L6-v2,Fresh consistent 28-question retrieval rerun; title-level metrics
+paraphrase_2,28,0.6607142857142857,0.35714285714285715,0.8511904761904762,0.8285714285714285,9758,5,sentence-transformers/all-MiniLM-L6-v2,Fresh consistent 28-question retrieval rerun; title-level metrics
+paraphrase_3,28,0.6607142857142857,0.35714285714285715,0.8601190476190476,0.7785714285714286,9758,5,sentence-transformers/all-MiniLM-L6-v2,Fresh consistent 28-question retrieval rerun; title-level metrics

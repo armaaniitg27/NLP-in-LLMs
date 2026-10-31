@@ -1,0 +1,13 @@
+﻿Method,Metric,Positive cases,Total assessed,Percent,Note
+Baseline,Fully Correct,29,112,25.89,
+Baseline,At Least Partly Correct,48,112,42.86,
+Baseline,Fully Supported,24,112,21.43,
+Baseline,Hallucination Yes,76,108,70.37,Two stale rows excluded; two remaining cases are uncertain and excluded from positive/negative rate.
+Evidence Constrained,Fully Correct,44,112,39.29,
+Evidence Constrained,At Least Partly Correct,55,112,49.11,
+Evidence Constrained,Fully Supported,37,112,33.04,
+Evidence Constrained,Hallucination Yes,46,112,41.07,
+Query Rewriting,Fully Correct,42,112,37.5,
+Query Rewriting,At Least Partly Correct,47,112,41.96,
+Query Rewriting,Fully Supported,12,112,10.71,
+Query Rewriting,Hallucination Yes,65,112,58.04,

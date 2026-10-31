@@ -1,0 +1,12 @@
+dimension,label_or_rule,definition
+correctness,fully_correct,The answer provides the requested answer accurately and without a material error.
+correctness,partly_correct,The answer contains a relevant correct component but omits or misstates a material part of what was asked.
+correctness,incorrect,"The answer fails to answer the question correctly, gives the wrong entity/value/conclusion, or materially contradicts the reference answer."
+evidence_support,supported,The retrieved context supports the material factual claims in the answer that address the question.
+evidence_support,partly_supported,"The retrieved context supports at least one relevant component, but does not support the answer as a whole; this includes answers that state a supported related fact while omitting the requested detail."
+evidence_support,contradicted_by_context,The retrieved context directly conflicts with a material claim in the answer. Use this when the context explicitly provides the correct fact that the answer gets wrong.
+evidence_support,insufficient_evidence,The retrieved context does not contain enough relevant information to determine whether the answer is supported or contradicted_by_context.
+evidence_support,unsupported,"The answer makes relevant factual claims for which the retrieved context provides no support, but the context does not directly contradict them. Use only if this category is consistently distinguishable from insufficient_evidence; otherwise report the two separately and discuss the ambiguity."
+application_rule,separation,Correctness evaluates whether the answer answers the question. Evidence support evaluates the relationship between answer claims and retrieved context. Never infer one label mechanically from the other.
+application_rule,granularity,Judge the answer at the claim level: supported side facts do not make an incorrect conclusion supported as a whole. Use partly_supported when a relevant component is supported but the answer omits/misses the requested fact; use contradicted_by_context when the context explicitly refutes the answer.
+application_rule,scope,"Labels are based on the retrieved context shown for that query, not outside knowledge or the reference answer alone. The reference answer can help judge correctness, but support must be judged against retrieved context."

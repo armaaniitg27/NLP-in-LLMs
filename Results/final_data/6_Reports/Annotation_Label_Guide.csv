@@ -1,0 +1,12 @@
+﻿Field,Original label,Readable label,Meaning
+correctness,correct / fully_correct,Fully correct,The answer fully addresses the question and agrees with the reference answer.
+correctness,partly_correct,Partly correct,The answer contains some correct information but misses or gets part of the answer wrong.
+correctness,incorrect,Incorrect,The answer does not provide the expected answer or contains a substantive error.
+evidence_support,supported,Supported by retrieved evidence,The retrieved context supports the answer.
+evidence_support,partly_supported,Partly supported,"Some claims are supported, but other parts are missing or not supported."
+evidence_support,insufficient_evidence,Not enough evidence,The retrieved context does not contain enough information to assess or support the answer.
+evidence_support,unsupported,Unsupported,The answer makes a claim that is not supported by the retrieved context.
+evidence_support,contradicted_by_context_by_context,Contradicted by evidence,The answer conflicts with the retrieved context.
+hallucination_present,yes,Hallucination flagged,At least one answer claim is judged unsupported or conflicting with the available evidence.
+hallucination_present,no,No hallucination flagged,No hallucination was identified in the assessed answer.
+hallucination_present,uncertain,Uncertain,The available answer or evidence is insufficient for a reliable yes/no decision.

@@ -1,0 +1,10 @@
+﻿Metric,Method A,Method B,Paired cases,A positive,B positive,A rate (%),B rate (%),Change B minus A (pp),"A yes, B no","A no, B yes",Unchanged,Exact McNemar p-value
+Fully Correct,Baseline,Evidence Constrained,112,29,44,25.89,39.29,13.39,5,20,87,0.004077
+Fully Correct,Baseline,Query Rewriting,112,29,42,25.89,37.5,11.61,12,25,75,0.047031
+Fully Correct,Evidence Constrained,Query Rewriting,112,44,42,39.29,37.5,-1.79,13,11,88,0.83882
+Fully Supported,Baseline,Evidence Constrained,112,24,37,21.43,33.04,11.61,5,18,89,0.010622
+Fully Supported,Baseline,Query Rewriting,112,24,12,21.43,10.71,-10.71,19,7,86,0.028959
+Fully Supported,Evidence Constrained,Query Rewriting,112,37,12,33.04,10.71,-22.32,31,6,75,4.1e-05
+Hallucination Yes,Baseline,Evidence Constrained,108,76,44,70.37,40.74,-29.63,34,2,72,1.941225491464138e-08
+Hallucination Yes,Baseline,Query Rewriting,108,76,63,70.37,58.33,-12.04,26,13,69,0.053252
+Hallucination Yes,Evidence Constrained,Query Rewriting,112,46,65,41.07,58.04,16.96,11,30,71,0.004324

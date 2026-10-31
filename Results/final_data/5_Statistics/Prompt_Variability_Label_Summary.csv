@@ -1,0 +1,47 @@
+﻿Question version,Metric,Label,Count,Percent,N
+Original question,Answer correctness,Incorrect,14,50.0,28
+Original question,Answer correctness,Fully correct,8,28.57,28
+Original question,Answer correctness,Partly correct,6,21.43,28
+Original question,Evidence support,Partly supported,7,25.0,28
+Original question,Evidence support,Supported,7,25.0,28
+Original question,Evidence support,Not enough evidence,7,25.0,28
+Original question,Evidence support,Contradicted,6,21.43,28
+Original question,Evidence support,Unsupported,1,3.57,28
+Original question,Failure type,The answer was generated incorrectly,11,39.29,28
+Original question,Failure type,The needed information was not retrieved,10,35.71,28
+Original question,Failure type,No failure label,5,17.86,28
+Original question,Failure type,Incomplete answer,2,7.14,28
+Paraphrase 1,Answer correctness,Incorrect,18,64.29,28
+Paraphrase 1,Answer correctness,Fully correct,7,25.0,28
+Paraphrase 1,Answer correctness,Partly correct,3,10.71,28
+Paraphrase 1,Evidence support,Contradicted,10,35.71,28
+Paraphrase 1,Evidence support,Not enough evidence,9,32.14,28
+Paraphrase 1,Evidence support,Supported,5,17.86,28
+Paraphrase 1,Evidence support,Partly supported,3,10.71,28
+Paraphrase 1,Evidence support,Unsupported,1,3.57,28
+Paraphrase 1,Failure type,The needed information was not retrieved,13,46.43,28
+Paraphrase 1,Failure type,The answer was generated incorrectly,9,32.14,28
+Paraphrase 1,Failure type,No failure label,5,17.86,28
+Paraphrase 1,Failure type,Incomplete answer,1,3.57,28
+Paraphrase 2,Answer correctness,Incorrect,15,53.57,28
+Paraphrase 2,Answer correctness,Fully correct,8,28.57,28
+Paraphrase 2,Answer correctness,Partly correct,5,17.86,28
+Paraphrase 2,Evidence support,Not enough evidence,8,28.57,28
+Paraphrase 2,Evidence support,Contradicted,7,25.0,28
+Paraphrase 2,Evidence support,Supported,6,21.43,28
+Paraphrase 2,Evidence support,Partly supported,5,17.86,28
+Paraphrase 2,Evidence support,Unsupported,2,7.14,28
+Paraphrase 2,Failure type,The needed information was not retrieved,11,39.29,28
+Paraphrase 2,Failure type,The answer was generated incorrectly,11,39.29,28
+Paraphrase 2,Failure type,No failure label,6,21.43,28
+Paraphrase 3,Answer correctness,Incorrect,17,60.71,28
+Paraphrase 3,Answer correctness,Fully correct,6,21.43,28
+Paraphrase 3,Answer correctness,Partly correct,5,17.86,28
+Paraphrase 3,Evidence support,Contradicted,8,28.57,28
+Paraphrase 3,Evidence support,Not enough evidence,8,28.57,28
+Paraphrase 3,Evidence support,Supported,6,21.43,28
+Paraphrase 3,Evidence support,Partly supported,6,21.43,28
+Paraphrase 3,Failure type,The answer was generated incorrectly,12,42.86,28
+Paraphrase 3,Failure type,The needed information was not retrieved,8,28.57,28
+Paraphrase 3,Failure type,No failure label,4,14.29,28
+Paraphrase 3,Failure type,Incomplete answer,4,14.29,28

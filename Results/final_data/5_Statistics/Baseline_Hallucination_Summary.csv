@@ -1,0 +1,2 @@
+﻿usable_rows,excluded_stale_rows,hallucination_yes,hallucination_no,uncertain,yes_rate_all_usable_pct,yes_rate_assessable_only_pct,status
+110,2,76,32,2,69.09,70.37,Reviewed by the project author. Two labels remain uncertain because the visible answers are truncated; two stale rows are excluded.
