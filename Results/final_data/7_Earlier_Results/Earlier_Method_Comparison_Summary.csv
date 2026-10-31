@@ -1,0 +1,13 @@
+﻿method,metric,numerator,denominator,percentage
+baseline,fully_correct,29,112,25.89285714
+baseline,at_least_partly_correct,48,112,42.85714286
+baseline,fully_supported,24,112,21.42857143
+baseline,hallucination_yes,74,104,71.15384615
+evidence_constrained,fully_correct,44,112,39.28571429
+evidence_constrained,at_least_partly_correct,55,112,49.10714286
+evidence_constrained,fully_supported,37,112,33.03571429
+evidence_constrained,hallucination_yes,65,112,58.03571429
+query_rewriting,fully_correct,42,112,37.5
+query_rewriting,at_least_partly_correct,47,112,41.96428571
+query_rewriting,fully_supported,12,112,10.71428571
+query_rewriting,hallucination_yes,65,112,58.03571429

@@ -1,0 +1,5 @@
+﻿Variant,N questions,Recall@5 (%),Complete supporting-title retrieval (%),MRR@5,Top-5 overlap vs original (%),Corpus passages,k,Embedding model
+Original,28,69.64285714285714,42.85714285714285,0.8928571428571429,100.0,9758,5,sentence-transformers/all-MiniLM-L6-v2
+Paraphrase 1,28,64.28571428571429,32.14285714285714,0.8839285714285714,86.42857142857142,9758,5,sentence-transformers/all-MiniLM-L6-v2
+Paraphrase 2,28,66.07142857142857,35.71428571428571,0.8511904761904762,82.85714285714285,9758,5,sentence-transformers/all-MiniLM-L6-v2
+Paraphrase 3,28,66.07142857142857,35.71428571428571,0.8601190476190476,77.85714285714286,9758,5,sentence-transformers/all-MiniLM-L6-v2
