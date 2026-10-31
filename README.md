@@ -8,7 +8,7 @@ the presentation video link: https://youtu.be/YW27er1Dcn0
 **The results folder contains all the results obtained, as CSVs and Excel Workbooks.**
 The final report and final presentation are also attached.
 
-**All codes can be run on any device, with a few specific instructions and prerequisites:**
+**All codes can be run with a few specific instructions and prerequisites:**
 
 1) create a virtual environment with "**python -m venv venv**"
 2) activate it "**venv\Scripts\activate**"
