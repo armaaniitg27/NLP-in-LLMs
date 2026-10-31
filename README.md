@@ -1,6 +1,6 @@
 # NLP-in-LLMs
 This repository contains my NLP project “Same Question, Different Prompts: How Prompt Variability Affects RAG Retrieval and the Question of Hallucination.”
-
+the presentation video link: https://youtu.be/YW27er1Dcn0
 **The codes folder contains all the relevant python codes I used to obtain results**, excluding all the intermediate unnecessary scripts i used to check my laptop's limits or stuff like that.
 
 **The results folder contains all the results obtained, as CSVs and Excel Workbooks.**
