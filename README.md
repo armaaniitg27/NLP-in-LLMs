@@ -11,13 +11,13 @@ The final report and final presentation are also attached.
 1) create a virtual environment with "**python -m venv venv**"
 2) activate it "**venv\Scripts\activate**"
 3) install relevant libraries:
-**pip install torch\\
-pip install transformers\\
-pip install sentence-transformers
-pip install faiss-cpu
-pip install pandas
-pip install numpy
-pip install scikit-learn
+**pip install torch,
+pip install transformers,
+pip install sentence-transformers,
+pip install faiss-cpu,
+pip install pandas,
+pip install numpy,
+pip install scikit-learn,
 pip install tqdm**
 4) BEFORE RUNNING ANY SCRIPT, CHECK THE INPUT AND OUTPUT PATHS. I may have put a localised specific path for my own pc, change it according to your own pc. Also, I ran most of this on my own laptop's GPU, which has CUDA cores.
 
