@@ -11,8 +11,8 @@ The final report and final presentation are also attached.
 1) create a virtual environment with "**python -m venv venv**"
 2) activate it "**venv\Scripts\activate**"
 3) install relevant libraries:
-**pip install torch
-pip install transformers
+**pip install torch\\
+pip install transformers\\
 pip install sentence-transformers
 pip install faiss-cpu
 pip install pandas
